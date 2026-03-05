@@ -70,6 +70,8 @@ python -m src.train_lightgbm --train data/raw/train.csv --test data/raw/test.csv
 ## Citation
 If you use this work, please cite the thesis. See `CITATION.cff`.
 
+![Project overview](assets/Data analysis gitter plot.png)
+
 ## License
 - Code: MIT (see `LICENSE`)
 - Thesis PDF: please choose a license you are comfortable with (e.g., CC BY 4.0) and update the repo accordingly.

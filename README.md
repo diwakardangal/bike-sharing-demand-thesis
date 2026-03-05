@@ -63,14 +63,14 @@ python -m src.train_lightgbm --train data/raw/train.csv --test data/raw/test.csv
 - Clean notebook (no outputs): `notebooks/Appendix_modelling.ipynb`
 - Original notebook backup: `notebooks/Appendix_modelling_original.ipynb`
 
+![Cover image](assets/Data%20analysis%20gitter%20plot.png)
+
 ## Thesis PDF
 - `thesis/thesis_public.pdf` — recommended for GitHub (last “statement of authorship” page removed).
 - `thesis/thesis_full.pdf` — full export.
 
 ## Citation
 If you use this work, please cite the thesis. See `CITATION.cff`.
-
-![Project overview](assets/Data analysis gitter plot.png)
 
 ## License
 - Code: MIT (see `LICENSE`)

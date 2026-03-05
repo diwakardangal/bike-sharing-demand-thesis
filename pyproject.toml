@@ -1,0 +1,11 @@
+[project]
+name = "bike-sharing-demand-thesis"
+version = "0.1.0"
+description = "Predictive analytics and ML for bike-sharing demand (Master's thesis project)."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name="Diwakar Dangal"}]
+license = {file="LICENSE"}
+
+[tool.ruff]
+line-length = 100

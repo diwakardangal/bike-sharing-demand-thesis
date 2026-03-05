@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+type: thesis
+title: "Predictive Analytics and Machine Learning For Bike Sharing Demand in Heterogeneous Urban Environments"
+authors:
+  - family-names: "Dangal"
+    given-names: "Diwakar"
+institution: "Technische Universität Chemnitz"
+date-released: "2024-05-22"
+keywords:
+  - bike-sharing
+  - forecasting
+  - time-series
+  - machine-learning
+  - lightgbm

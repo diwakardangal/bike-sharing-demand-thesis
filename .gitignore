@@ -1,0 +1,20 @@
+# data & artifacts
+data/
+models/
+*.pkl
+*.joblib
+*.h5
+*.ckpt
+
+# notebooks
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+
+# logs
+*.log
